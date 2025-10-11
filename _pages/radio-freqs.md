@@ -22,6 +22,7 @@ Our club call sign is **W3DEV**
 - [sam](/members/#sam): N3SAM
 - [lordtaco](/members/#lordtaco): KK4TUJ
 - [strangewill](/members/#strangewill): W3UWU
+- [dwhite](/members/#dwhite): N4DWY
 
 ## Repeaters
 
